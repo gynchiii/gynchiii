@@ -18,7 +18,7 @@ I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA, tha
 
 ### GO WARRIORS 
 
-- 🔭 I’m currently working on 3 Solana Teams
+- 🔭 I’m currently working on 4 Solana Teams
     - Pugging Awesome Lead front-end Dev
     - DSD Front-end
     - Alder Mages Front-end [Building the new not released Website]
