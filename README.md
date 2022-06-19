@@ -22,6 +22,7 @@ I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA, tha
     - Pugging Awesome
     - Dead Souls
     - Alder Mages
+    - [Co-Founder & Dev] Pawa Robotics.
 - 🌱 I’m currently learning about Rust / Anchor
 - 👯 I’m looking to collaborate on Solana & NEAR projects...
 - 💬 Ask me about NFTs, Blockchain, Solana and design.
