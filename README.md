@@ -19,9 +19,9 @@ I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA, tha
 ### GO WARRIORS 
 
 - 🔭 I’m currently working on 3 Solana Teams
-    -Pugging Awesome
-    -Dead Souls
-    -Alder Mages
+    - Pugging Awesome
+    - Dead Souls
+    - Alder Mages
 - 🌱 I’m currently learning about Rust / Anchor
 - 👯 I’m looking to collaborate on Solana & NEAR projects...
 - 💬 Ask me about NFTs, Blockchain, Solana and design.
