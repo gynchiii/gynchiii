@@ -30,6 +30,5 @@ I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA, tha
   -  [LinkedIn](https://www.linkedin.com/in/joey-rafael-8bbb411ab/)
   -  [Twitter](https://twitter.com/gynchiii)
   -  [Discord] (gynchiii#0001)
-- ⚡ I usually sleep when the sun's shining, and when the sun goes down until it comes up again, I'm      coding..
 
 #### See ya!
