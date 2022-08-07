@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA.
 
-I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA, that's what I do when I'm not working, watch NBA and play a basketball on the courts.
-
-### GO WARRIORS 
+### L F G 
 
 - 🔭 I’m currently working on 5 Solana Teams
 - 😄 Owner of
