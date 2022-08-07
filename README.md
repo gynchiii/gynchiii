@@ -18,11 +18,14 @@ I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA, tha
 
 ### GO WARRIORS 
 
-- 🔭 I’m currently working on 4 Solana Teams
+- 🔭 I’m currently working on 5 Solana Teams
+- 😄 Owner of
+    - Star Coin Flip
+    - Monstersmellow
+- 🤔 Dev from ⚡
+    - Alder Mages
     - Pugging Awesome Lead front-end Dev
     - DSD Front-end
-    - Alder Mages Front-end [Building the new not released Website]
-    - [Co-Founder & Dev] Pawa Robotics.
 - 🌱 I’m currently learning about Rust / Anchor
 - 👯 I’m looking to collaborate on Solana & NEAR projects...
 - 💬 Ask me about NFTs, Blockchain, Solana and design.
