@@ -23,8 +23,8 @@ I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA.
     - Monstersmellow
 - 🤔 Dev from ⚡
     - Alder Mages
-    - Pugging Awesome Lead front-end Dev
     - DSD Front-end
+    - Mischievous Maxis Dev Responsible Deruger
 - 🌱 I’m currently learning about Rust / Anchor
 - 👯 I’m looking to collaborate on Solana & NEAR projects...
 - 💬 Ask me about NFTs, Blockchain, Solana and design.
