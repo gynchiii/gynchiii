@@ -17,10 +17,11 @@ I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA.
 
 ### L F G 
 
-- 🔭 I’m currently working on 5 Solana Teams
+- 🔭 I’m currently CTO form a team and Web3 Dev from anothers.
+- ⚡CTO from:
+    - Alpha C
 - 🤔 Dev from ⚡
     - Alder Mages
-    - Solana Caesar Palace
     - DSD Front-end
     - Mischievous Maxis Dev Responsible Deruger
     - Another Projects...
