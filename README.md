@@ -13,21 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a front-end Vue Developer, Blockchain [SOLANA] WFH on Web3 . I love NBA.
+I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3 . I love NBA.
 
 ### L F G 
 
-- 🔭 I’m currently CTO form a team and Web3 Dev from anothers.
-- ⚡CTO from:
+- ⚡Co-Founder:
+    - apt devs
+- ⚡CTO:
     - Alpha C
-- 🤔 Dev from ⚡
+
+- 🔭 Dev from
     - Alder Mages
+    - The Castle
+    - MoonPills
     - DSD Front-end
     - Mischievous Maxis Dev Responsible Deruger
     - Another Projects...
-- 🌱 I’m currently learning about Rust / Anchor
-- 👯 I’m looking to collaborate on Solana & NEAR projects...
-- 💬 Ask me about NFTs, Blockchain, Solana and design.
+
+- 👯 I’m looking to collaborate on Solana & APTOS projects...
+- 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
 - 📫 How to reach me:
   -  [LinkedIn](https://www.linkedin.com/in/joey-rafael-8bbb411ab/)
   -  [Twitter](https://twitter.com/gynchiii)
