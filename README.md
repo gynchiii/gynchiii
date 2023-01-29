@@ -24,7 +24,8 @@ I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3 . I love 
 
 - 🔭 Dev from
     - Alder Mages
-    - The Castle
+    - BonkitoDAO
+    - BonkeDAO
     - MoonPills
     - DSD Front-end
     - Mischievous Maxis Dev Responsible Deruger
