@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3 . I love NBA.
+I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3.
 
 ### L F G 
 
