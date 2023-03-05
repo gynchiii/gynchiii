@@ -27,8 +27,6 @@ I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3.
     - BonkeDAO
     - Dimenzion
     - Komodo Launchpad
-    - Mischievous Maxis Dev Responsible Deruger
-    - Another Projects...
 
 - 👯 I’m looking to collaborate on Solana & APTOS projects...
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
