@@ -19,11 +19,11 @@ I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3.
 
 - ⚡Co-Founder from:
     - BonkitoDAO
-    - DEFInedhub
     - APTDevs
 - ⚡CTO from:
     - Alpha C
 - 🔭 Dev from:
+    - Wolf Capital
     - BonkeDAO
     - FBC
     - Dimenzion
