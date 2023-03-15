@@ -29,7 +29,7 @@ I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3.
     - Dimenzion
     - Komodo Launchpad
 
-- 👯 I’m looking to collaborate on Solana & APTOS projects...
+
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
 - 📫 How to reach me:
   -  [LinkedIn](https://www.linkedin.com/in/joey-rafael-8bbb411ab/)
