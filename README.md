@@ -23,7 +23,7 @@ I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3.
 - ⚡CTO from:
     - Alpha C
 - 🔭 Dev from:
-    - Wolf Capital
+    - Wolf Capital / Platform
     - BonkeDAO
     - FBC
     - Dimenzion
