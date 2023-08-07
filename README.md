@@ -13,21 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a front-end Vue Developer, Blockchain [APTOS / SOLANA] WFH on Web3.
+I'm a Blockchain Developer, [SOLANA / BTC-Ordinals] WFH on Web3.
 
 ### L F G 
 
-- ⚡Co-Founder from:
-    - BonkitoDAO
-    - APTDevs
-- ⚡CTO from:
+- ⚡Co-Founder:
+    - HuntersBet
+- ⚡CTO:
     - Alpha C
-- 🔭 Dev from:
-    - Wolf Capital / Platform
+- 🔭 Dev:
+    - Wolf Capital 
+    - GenZero BTC
     - Sinq
-    - Dimenzion
-    - Komodo Launchpad
-
 
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
 - 📫 How to reach me:
