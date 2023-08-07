@@ -29,9 +29,9 @@ I'm a Blockchain Dev.
 - ⚡CTO:
     - Alpha C
 - 🔭 Dev:
+    - Sinq
     - Wolf Capital 
     - GenZero BTC
-    - Sinq
 
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
 - 📫 How to reach me:
