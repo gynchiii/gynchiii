@@ -30,6 +30,5 @@ I'm a Blockchain Developer, [SOLANA / BTC-Ordinals] WFH on Web3.
 - 📫 How to reach me:
   -  [LinkedIn](https://www.linkedin.com/in/joey-rafael-8bbb411ab/)
   -  [Twitter](https://twitter.com/gynchiii)
-  -  [Discord] (gynchiii#0001)
 
 #### See ya!
