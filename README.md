@@ -17,6 +17,8 @@ I'm a Blockchain Dev.
 
 - SOLANA, BTC-Ordinals, APT
 
+-
+
 - JS / TS, Rust 
 - Vue, React
 
