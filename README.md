@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 I'm a Blockchain Developer, [SOLANA / BTC-Ordinals] WFH on Web3.
 
-### L F G 
+- JS / TS, Rust 
+- Vue, React
+
+### ...
 
 - ⚡Co-Founder:
     - HuntersBet
