@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Blockchain Developer, [SOLANA / BTC-Ordinals / APT] WFH on Web3.
+I'm a Blockchain Dev.
+
+- SOLANA, BTC-Ordinals, APT
 
 - JS / TS, Rust 
 - Vue, React
