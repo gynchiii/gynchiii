@@ -29,7 +29,7 @@ I'm a Blockchain Dev.
 - ⚡CTO:
     - Alpha C
 - 🔭 Dev:
-    - Sinq
+    - Huntersbet
     - Wolf Capital 
     - GenZero BTC
 
