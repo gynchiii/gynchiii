@@ -23,15 +23,15 @@ I'm a Blockchain Dev.
 - Vue, React
 
 ### ...
-
-- ⚡Co-Founder:
-    - HuntersBet
-    - GenZero BTC
-- ⚡CTO:
-    - Alpha C
 - 🔭 Engineer:
     - [Sharky.fi](https://www.sharky.fi/)
 
+- ⚡Co-Founder:
+    - Ordinalstraker
+    - GenZero BTC
+
+- ⚡Coded:
+    - [Wolf Capital](https://app.wolfcap.io/)
 
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
 - 📫 How to reach me:
