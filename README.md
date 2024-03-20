@@ -26,12 +26,12 @@ I'm a Blockchain Dev.
 
 - ⚡Co-Founder:
     - HuntersBet
+    - GenZero BTC
 - ⚡CTO:
     - Alpha C
-- 🔭 Dev:
-    - Huntersbet
-    - Wolf Capital 
-    - GenZero BTC
+- 🔭 Engineer:
+    - [Sharky.fi](https://www.sharky.fi/)
+
 
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
 - 📫 How to reach me:
