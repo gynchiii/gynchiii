@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 I'm a Blockchain Dev.
 
-- SOLANA, BTC-Ordinals, APT
+- SOLANA || BTC
 
 ### ...
 
-- JS / TS, Rust 
-- Vue, React
+- JS || TS || Rust 
+- Vue || React
 
 ### ...
 - 🔭 Engineer:
