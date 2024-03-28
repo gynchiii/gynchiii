@@ -29,9 +29,15 @@ I'm a Blockchain Dev.
 - ⚡Co-Founder:
     - Ordinalstraker
     - GenZero BTC
-
+    - Hunters Bet
 - ⚡Coded:
     - [Wolf Capital](https://app.wolfcap.io/)
+    - Ordinalstraker
+    - GenZero
+    - Hunters Bet
+    - Alder Mages
+    - Vasa
+    - &more
 
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
 - 📫 How to reach me:
