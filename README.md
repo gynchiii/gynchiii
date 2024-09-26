@@ -24,13 +24,15 @@ I'm a Blockchain Dev.
 
 ### ...
 - 🔭 Engineer:
-    - [Sharky.fi](https://www.sharky.fi/)
+     - CTO - [PALAC3](https://www.palac3.org/)
 
 - ⚡Co-Founder:
+    - CTO - [PALAC3](https://www.palac3.org/)
     - Ordinalstraker
     - GenZero BTC
     - Hunters Bet
 - ⚡Coded:
+    - [Sharky.fi](https://www.sharky.fi/)
     - [Wolf Capital](https://app.wolfcap.io/)
     - Ordinalstraker
     - GenZero
