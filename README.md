@@ -19,8 +19,8 @@ I'm a Blockchain Dev.
 
 ### ...
 
-- JS || TS || Rust 
-- Vue || React
+- JS / RUST
+- Vue (fav) | React (ofc)
 
 ### ...
 - 🔭 Engineer:
@@ -42,7 +42,7 @@ I'm a Blockchain Dev.
     - Vasa 
     - &more
 
-- 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
+- 💬 Ask me about Fungible SPLs, Runes, BRC-20, Ordinals, NFTs...
 - 📫 How to reach me:
   -  [LinkedIn](https://www.linkedin.com/in/joey-rafael-8bbb411ab/)
   -  [Twitter](https://twitter.com/gynchiii)
