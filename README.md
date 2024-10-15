@@ -30,15 +30,16 @@ I'm a Blockchain Dev.
     - CTO - [PALAC3](https://www.palac3.org/)
     - Ordinalstraker
     - GenZero BTC
-    - Hunters Bet
 - ⚡Coded:
-    - [Sharky.fi](https://www.sharky.fi/)
-    - [Wolf Capital](https://app.wolfcap.io/)
-    - Ordinalstraker
-    - GenZero
-    - Hunters Bet
-    - Alder Mages
-    - Vasa
+    - [Sharky.fi](https://www.sharky.fi/) -SOL
+    - [Wolf Capital](https://app.wolfcap.io/) -SOL
+    - [PALAC3](https://www.palac3.org/)
+    - Ordinalstraker -BTC
+    - GenZero -BTC
+    - Hunters -SOL
+    - Alder Mages -SOL
+    - Fearless Bulls -SOL
+    - Vasa 
     - &more
 
 - 💬 Ask me about NFTs, Blockchain, Solana, Aptos, NEAR and code stuffs.
