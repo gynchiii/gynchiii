@@ -1,4 +1,4 @@
-### Sup. Gynchiii here. 
+### Sup. gynn here. 
 
 <!--
 Here are some ideas to get you started:
@@ -46,5 +46,3 @@ Blockchain Developer.
 - 📫 How to reach me:
   -  [LinkedIn](https://www.linkedin.com/in/joey-rafael-8bbb411ab/)
   -  [Twitter](https://twitter.com/gynchiii)
-
-#### See ya!
