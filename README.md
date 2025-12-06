@@ -30,7 +30,7 @@ Blockchain Developer.
     - CTO - [PALAC3](https://www.palac3.org/)
     - Ordinalstraker
     - GenZero BTC
-- ⚡Coded:
+- ⚡Past Dev Works:
     - [Sharky.fi](https://www.sharky.fi/) -SOL
     - [Wolf Capital](https://app.wolfcap.io/) -SOL
     - [PALAC3](https://www.palac3.org/)
