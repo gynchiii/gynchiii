@@ -13,23 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Blockchain Developer.
+Blockchain Developer +8y exp.
 
 - SOLANA || BTC
 
 ### ...
 
-- JS / RUST
+- JS / TS /  RUST
 - Vue (fav) | React (ofc)
 
 ### ...
 - 🔭 Engineer:
      - CTO - [PALAC3](https://www.palac3.org/)
-
+- ⚡Founder:
+    -  [boobow](https://www.boobow.app/)
 - ⚡Co-Founder:
     - CTO - [PALAC3](https://www.palac3.org/)
-    - Ordinalstraker
-    - GenZero BTC
 - ⚡Past Dev Works:
     - [Sharky.fi](https://www.sharky.fi/) -SOL
     - [Wolf Capital](https://app.wolfcap.io/) -SOL
