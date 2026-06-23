@@ -23,12 +23,11 @@ Blockchain Developer +8y exp.
 - Vue (fav) | React (ofc)
 
 ### ...
-- 🔭 Engineer:
+- 🔭 Engineer / CTO:
      - CTO - [PALAC3](https://www.palac3.org/)
 - ⚡Founder:
     -  [boobow](https://www.boobow.app/)
-- ⚡Co-Founder:
-    - CTO - [PALAC3](https://www.palac3.org/)
+
 - ⚡Past Dev Works:
     - [Sharky.fi](https://www.sharky.fi/) -SOL
     - [Wolf Capital](https://app.wolfcap.io/) -SOL
