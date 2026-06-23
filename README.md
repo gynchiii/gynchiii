@@ -13,14 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Blockchain Developer +8y exp.
+Blockchain Developer +9y exp.
 
 - SOLANA || BTC
-
-### ...
-
-- JS / TS /  RUST
-- Vue (fav) | React (ofc)
 
 ### ...
 - 🔭 Engineer / CTO:
@@ -28,19 +23,10 @@ Blockchain Developer +8y exp.
 - ⚡Founder:
     -  [boobow](https://www.boobow.app/)
 
-- ⚡Past Dev Works:
+- ⚡Last Dev Works:
     - [Sharky.fi](https://www.sharky.fi/) -SOL
     - [Wolf Capital](https://app.wolfcap.io/) -SOL
-    - [PALAC3](https://www.palac3.org/)
-    - Ordinalstraker -BTC
-    - GenZero -BTC
-    - Hunters -SOL
-    - Alder Mages -SOL
-    - Fearless Bulls -SOL
-    - Vasa 
-    - &more
 
-- 💬 Ask me about Fungible SPLs, Runes, BRC-20, Ordinals, NFTs...
 - 📫 How to reach me:
   -  [LinkedIn](https://www.linkedin.com/in/joey-rafael-8bbb411ab/)
   -  [Twitter](https://twitter.com/gynchiii)
